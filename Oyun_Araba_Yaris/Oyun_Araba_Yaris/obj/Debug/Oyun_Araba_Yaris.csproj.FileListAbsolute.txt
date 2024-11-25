@@ -1,0 +1,10 @@
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\bin\Debug\Oyun_Araba_Yaris.exe.config
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\bin\Debug\Oyun_Araba_Yaris.exe
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\bin\Debug\Oyun_Araba_Yaris.pdb
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\obj\Debug\Oyun_Araba_Yaris.csprojAssemblyReference.cache
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\obj\Debug\Oyun_Araba_Yaris.Form1.resources
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\obj\Debug\Oyun_Araba_Yaris.Properties.Resources.resources
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\obj\Debug\Oyun_Araba_Yaris.csproj.GenerateResource.cache
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\obj\Debug\Oyun_Araba_Yaris.csproj.CoreCompileInputs.cache
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\obj\Debug\Oyun_Araba_Yaris.exe
+C:\Users\Beşir Can\source\repos\Oyun_Araba_Yaris\Oyun_Araba_Yaris\obj\Debug\Oyun_Araba_Yaris.pdb
